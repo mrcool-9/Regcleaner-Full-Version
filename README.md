@@ -241,3 +241,6 @@ This repository serves as the official landing page for RegCleaner. The software
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of RegCleaner today!**
+
+---
+**Last updated:** 2026-09-11 12:00:14 UTC
